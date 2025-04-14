@@ -65,12 +65,12 @@
 </li>
 <li>
 <p dir="auto">Use the library in your project:</p>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>#include "libftprintf.h"</pre>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>#include "ft_printf/libftprintf.h"</pre>
 </div>
 </li>
 <li>
 <p dir="auto">Compile your project:</p>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><samp>gcc -Wall -Wextra -Werror *.c libftprintf.a</samp></pre>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><samp>gcc -Wall -Wextra -Werror *.c ft_printf/libftprintf.a</samp></pre>
 </div>
 </li>
 </ol>
