@@ -31,7 +31,7 @@
   <li><code>%i</code> for base 10 integers numbers.</li>
   <li><code>%u</code> for base 10 unsigned decimal numbers.</li>
   <li><code>%x</code> for base 16 lowercase hexadecimal numbers.</li>
-  <li><code>%x</code> for base 16 uppercase hexadecimal numbers.</li>
+  <li><code>%X</code> for base 16 uppercase hexadecimal numbers.</li>
   <li><code>%%</code> for the % character.</li>
 </ul>
 
